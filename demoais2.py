@@ -2,8 +2,8 @@ import socket
 import time
 
 # ✅ Configure the target IP and UDP port
-TARGET_IP = "192.168.2.187"  # Change to target IP
-# TARGET_IP = "127.0.0.1"  # Change to target IP
+# TARGET_IP = "192.168.2.187"  # Change to target IP
+TARGET_IP = "127.0.0.1"  # Change to target IP
 TARGET_PORT = 10110          # Change to target UDP port
 
 # ✅ Function to load AIS messages from a CSV file
